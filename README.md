@@ -1,0 +1,2 @@
+## Description
+MyLib is a comprehensive book store app developed using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to browse, search, and purchase a variety of books across different genres. The front-end, built with React, provides a user-friendly interface, while the back-end, powered by Node.js and Express.js, handles user authentication, book management, and order processing. MongoDB is used to efficiently store book data and user information. MyLib features dynamic book searches, reviews, and a seamless checkout experience.
